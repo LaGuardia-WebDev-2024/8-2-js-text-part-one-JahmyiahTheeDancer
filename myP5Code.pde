@@ -15,7 +15,13 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+ fill(45, 69, 39)
+ textSize(30);
+text("Jahmyiah", 200 ,95);
 
+fill(109, 148, 99)
+textSize(25);
+text("I love to eat food and I like beef more than chicken", 20, 120);
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
